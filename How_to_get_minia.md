@@ -1,1 +1,4 @@
 
+##Getting minia
+Obviously it is available in github:
+1. https://github.com/GATB/minia
